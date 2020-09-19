@@ -1,6 +1,6 @@
 # Anushka Karn
-[![linkedin](https://github.com/anushkakarn26/anushkakarn26/blob/master/linkedin.png)](https://www.linkedin.com/in/anushka-karn/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![facebook](https://github.com/anushkakarn26/anushkakarn26/blob/master/facebook.png)](https://www.facebook.com/anushka.karn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/anushkakarn26/anushkakarn26/blob/master/gmail.jpg)](mailto:anushkakarn2020@gmail.com)
 
+[![linkedin](https://github.com/anushkakarn26/anushkakarn26/blob/master/linkedin.png)](https://www.linkedin.com/in/anushka/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![facebook](https://github.com/anushkakarn26/anushkakarn26/blob/master/facebook.jpg)](https://www.facebook.com/anushka.karn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/anushkakarn26/anushkakarn26/blob/master/gmail.jpg)](mailto:anushkakarn2020@gmail.com)
 
 
 
@@ -8,7 +8,7 @@
 
 <!--
 **anushkakarn26/anushkakarn26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am Anushka Karn , a Computer Science Graduate. I love exploring any thing related to AI ,I have some knowledge on ML and Python. Currently am learning NLP and DEEP LEARNING and also their deployement techniques. I am eager to learn anything new that comes on my path.
+I am Anushka Karn , a Computer Science Graduate.:sunglasses: I love exploring any thing related to AI :computer:,I have some knowledge on ML and Python. Currently am learning NLP and DEEP LEARNING and also their deployement techniques :alien: . I am eager to learn anything new that comes on my path.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **KERAS project**
