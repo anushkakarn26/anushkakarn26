@@ -1,5 +1,5 @@
 # Anushka Karn
-[![linkedin]](https://www.linkedin.com/in/anushka-karn/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![linkedin](https://github.com/anushkakarn26/anushkakarn26/blob/master/linkedin.png)](https://www.linkedin.com/in/anushka-karn/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![facebook](https://github.com/anushkakarn26/anushkakarn26/blob/master/facebook.png)](https://www.facebook.com/anushka.karn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/anushkakarn26/anushkakarn26/blob/master/gmail.jpg)](mailto:anushkakarn2020@gmail.com)
 
 
 
