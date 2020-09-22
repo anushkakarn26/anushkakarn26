@@ -1,6 +1,6 @@
 # Anushka Karn
 
-[![linkedin](https://github.com/anushkakarn26/anushkakarn26/blob/master/linkedin.png)](https://www.linkedin.com/in/anushka-karn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![facebook](https://github.com/anushkakarn26/anushkakarn26/blob/master/facebook.jpg)](https://www.facebook.com/anushka.karn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/anushkakarn26/anushkakarn26/blob/master/gmail.jpg)](mailto:anushkakarn2020@gmail.com)
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/anushka-karn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![facebook](https://github.com/anushkakarn26/anushkakarn26/blob/master/facebook.jpg)](https://www.facebook.com/anushka.karn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/anushkakarn26/anushkakarn26/blob/master/gmail.jpg)](mailto:anushkakarn2020@gmail.com)
 
 
 
