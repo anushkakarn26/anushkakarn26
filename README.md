@@ -9,8 +9,8 @@ I am Anushka Karn , a Computer Science Graduate.:sunglasses: I love exploring an
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **KERAS project**
-- 🌱 I’m currently learning **DEEP LEARNING ** and **NLP**
-- 👯 I’m looking to collaborate on any **MACHINE LEARNING** , **DEEP LEARNING ** or **PYTHON** related projects
+- 🌱 I’m currently learning **DEEP LEARNING** and **NLP**
+- 👯 I’m looking to collaborate on any **MACHINE LEARNING** , **DEEP LEARNING** or **PYTHON** related projects
 - 🤔 I’m looking for help with **FLASK** and **DOCKER**
 - 💬 Ask me about **PYTHON**,**MACHINE LEARNING,**PANDAS** and **NUMPY**
 - 📫 How to reach me: Just mail me on [anushkakarn2020@gmail.com](mailto:anushkakarn2020@gmail.com) or ping me on any of the handles given above :stuck_out_tongue_winking_eye: .
